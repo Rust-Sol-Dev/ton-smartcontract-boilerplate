@@ -1,7 +1,3 @@
-## Important: This repo is deprecated in favor of https://github.com/ton-community/blueprint (the new all in one tool for creating new TON projects)
-
----
-
 # TON Starter Template - Contracts
 
 > Starter template for a new TON project - FunC contracts, JS tests, compilation and deployment scripts
